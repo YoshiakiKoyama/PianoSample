@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2125bd4ea2c52b149b814aec1ce6c5ef
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 375806
+  packageName: Piano Project
+  packageVersion: 1.0
+  assetPath: Assets/Just5Store/PianoAsset/Runtime/Prefabs/Effects/ExplodeParticle.prefab
+  uploadId: 904878

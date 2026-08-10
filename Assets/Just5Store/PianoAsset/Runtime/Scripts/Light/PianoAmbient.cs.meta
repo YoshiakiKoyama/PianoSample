@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1e7ee6e7097f5784d83c141f9e50b2a7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 375806
+  packageName: Piano Project
+  packageVersion: 1.0
+  assetPath: Assets/Just5Store/PianoAsset/Runtime/Scripts/Light/PianoAmbient.cs
+  uploadId: 904878
